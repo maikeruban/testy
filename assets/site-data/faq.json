@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "question": "How can I automate repetitive tasks for my business?",
+      "answer": "I use tools like n8n and Zapier to connect apps and automate workflows. This can reduce manual work like sending emails, syncing data, or updating CRMs."
+    },
+    {
+      "question": "Can you integrate multiple software platforms together?",
+      "answer": "Yes! I work with GoHighLevel (GHL), Make, and APIs using Postman to connect platforms and ensure data flows seamlessly between them."
+    },
+    {
+      "question": "How do you manage and deploy web applications?",
+      "answer": "I develop using React, Node.js, and Vite, and containerize projects with Docker. Deployments are handled via Vercel or GitHub workflows for fast and reliable updates."
+    },
+    {
+      "question": "Do you handle custom API integrations?",
+      "answer": "Absolutely. I use Postman for testing APIs and integrate them into workflows or web apps using JavaScript and Node.js, allowing custom automation and dynamic functionality."
+    },
+    {
+      "question": "How do you maintain code and project collaboration?",
+      "answer": "I use GitHub for version control, ensuring clean code management, branching, and collaboration. Combined with automation, this keeps projects organized and scalable."
+    }
+  ]
+}

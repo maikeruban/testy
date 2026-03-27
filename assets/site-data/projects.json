@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "name": "Automated Print Integration",
+      "client": "Printify x Printful",
+      "description": "Built an automated workflow to sync orders and inventory between Printify and Printful.",
+      "technologies": ["n8n", "Zapier", "JavaScript", "Postman API"],
+      "objective": "Reduce manual data entry and errors between platforms.",
+      "impact": "Saved 15+ hours of manual work weekly, improved order accuracy.",
+      "date_started": "2022-03-01",
+      "date_finished": "2022-04-15",
+      "thumbnail": "assets/projects/project1.jpg"
+    },
+    {
+      "name": "Amazon Retail Payments Dashboard",
+      "client": "Ibex Global",
+      "description": "Developed a dashboard to monitor Amazon payment transactions and support tickets.",
+      "technologies": ["React", "Node.js", "Vite", "Postman API"],
+      "objective": "Provide real-time insights for technical support teams.",
+      "impact": "Reduced response time by 30%, improved tracking accuracy.",
+      "date_started": "2022-05-10",
+      "date_finished": "2022-06-20",
+      "thumbnail": "assets/projects/project2.jpg"
+    },
+    {
+      "name": "Shopee Chat Support Automation",
+      "client": "TaskUs",
+      "description": "Created an automated chat support system to handle common customer inquiries.",
+      "technologies": ["Make", "JavaScript", "n8n"],
+      "objective": "Reduce repetitive queries handled by agents.",
+      "impact": "Increased agent productivity by 25%, faster response for customers.",
+      "date_started": "2022-07-01",
+      "date_finished": "2022-08-05",
+      "thumbnail": "assets/projects/project3.jpg"
+    },
+    {
+      "name": "Google My Business Expansion Tracker",
+      "client": "411 Locals",
+      "description": "Built a workflow to track business area expansion and monitor GMB listings.",
+      "technologies": ["n8n", "Zapier", "GHL API"],
+      "objective": "Streamline expansion monitoring without manual checks.",
+      "impact": "Saved hours weekly, reduced missed updates.",
+      "date_started": "2022-09-01",
+      "date_finished": "2022-10-10",
+      "thumbnail": "assets/projects/project4.jpg"
+    },
+    {
+      "name": "Portfolio Website",
+      "client": "Personal",
+      "description": "Designed and developed a personal portfolio showcasing projects and skills.",
+      "technologies": ["React", "Vite", "Tailwind CSS", "Vercel"],
+      "objective": "Create an interactive, responsive portfolio site.",
+      "impact": "Improved online presence and project visibility.",
+      "date_started": "2023-01-05",
+      "date_finished": "2023-02-10",
+      "thumbnail": "assets/projects/project5.jpg"
+    },
+    {
+      "name": "E-commerce Admin Dashboard",
+      "client": "Freelance Client",
+      "description": "Developed a dashboard to manage products, orders, and inventory for an online store.",
+      "technologies": ["React", "Node.js", "Docker", "GitHub Actions"],
+      "objective": "Centralize management and reduce manual reporting.",
+      "impact": "Streamlined operations, reduced reporting errors by 40%.",
+      "date_started": "2023-03-01",
+      "date_finished": "2023-04-15",
+      "thumbnail": "assets/projects/project6.jpg"
+    }
+  ]
+}

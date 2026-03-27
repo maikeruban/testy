@@ -1,0 +1,107 @@
+.section {
+  margin-top: clamp(2rem, 5vw, 5rem);
+  margin-bottom: clamp(2rem, 5vw, 5rem);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-auto-rows: 200px;
+  gap: 1rem;
+  background-color: blue;
+}
+
+/* Hamburger Menu */
+.menu {
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu__bar {
+    transition: transform var(--default-duration) ease, background-color var(--default-duration) ease-in-out;
+    background-color: #aaa;
+    height: 2px;
+    width: 24px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.menu__bar::before,
+.menu__bar::after {
+    transition: transform var(--default-duration) ease-in-out, background-color var(--default-duration) ease;
+    content: "";
+    background-color: #aaa;
+    height: 2px;
+    width: 24px;
+    position: absolute;
+    left: 0;
+    border-radius: 10px;
+}
+
+.menu__bar::before {
+    top: -8px;
+}
+
+.menu__bar::after {
+    top: 8px;
+}
+
+.menu.menu--open .menu__bar {
+    background-color: transparent;
+}
+
+.menu.menu--open .menu__bar::before {
+    transform: translate(0px, 8px) rotate(45deg);
+}
+.menu.menu--open .menu__bar::after {
+    transform: translate(0px, -8px) rotate(-45deg);
+}
+/* Hamburger Menu End */
+
+.fluid-img {
+    object-fit: contain;
+    width: auto;
+    height: 100%;
+}
+
+/* Media Query */
+@media (min-width: 475px) {
+    .container {
+        max-width: 475px;
+    }
+}
+
+
+@media (min-width: 640px) {
+    .container {
+        max-width: 640px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 768px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .container {
+        max-width: 1024px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .container {
+        max-width: 1280px;
+    }
+}
+
+@media (min-width: 1536px) {
+    .container {
+        max-width: 1536px;
+    }
+}

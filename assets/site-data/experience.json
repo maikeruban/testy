@@ -1,0 +1,76 @@
+{
+  "experience": [
+    {
+      "position": "Account Manager",
+      "employer": "Printify",
+      "duration": "2024-2026",
+      "tasks_handled": [
+        "Managed client integrations and support workflows",
+        "Monitored order automation and CRM updates",
+        "Coordinated with cross-functional teams to ensure seamless operations"
+      ],
+      "job_type": "freelance",
+      "work_setup": "hybrid"
+    },
+    {
+      "position": "Technical Support Specialist",
+      "employer": "Ibex Global",
+      "duration": "2022-2023",
+      "tasks_handled": [
+        "Handled Amazon Retail payment inquiries",
+        "Assisted clients in troubleshooting payment and account issues",
+        "Documented recurring issues for internal knowledge base"
+      ],
+      "job_type": "contract",
+      "work_setup": "wfh"
+    },
+    {
+      "position": "Chat Support Agent",
+      "employer": "TaskUs",
+      "duration": "2022",
+      "tasks_handled": [
+        "Managed Shopee customer chat inquiries",
+        "Implemented automated responses for common questions",
+        "Escalated complex issues to the relevant teams"
+      ],
+      "job_type": "per hour",
+      "work_setup": "wfh"
+    },
+    {
+      "position": "Area Expansion Manager",
+      "employer": "411 Locals",
+      "duration": "2022-2023",
+      "tasks_handled": [
+        "Tracked Google My Business listings for expansion",
+        "Analyzed local market data to identify growth opportunities",
+        "Coordinated with operations to implement expansion strategies"
+      ],
+      "job_type": "freelance",
+      "work_setup": "hybrid"
+    },
+    {
+      "position": "Web Developer",
+      "employer": "Personal / Freelance",
+      "duration": "2023-present",
+      "tasks_handled": [
+        "Built portfolio and client websites using React and Vite",
+        "Integrated APIs and automated workflows using n8n and Zapier",
+        "Deployed projects via Vercel and maintained version control with GitHub"
+      ],
+      "job_type": "freelance",
+      "work_setup": "wfh"
+    },
+    {
+      "position": "Automation Specialist",
+      "employer": "Various Clients",
+      "duration": "2022-2024",
+      "tasks_handled": [
+        "Created automated workflows for repetitive business tasks",
+        "Integrated marketing and CRM tools for small businesses",
+        "Tested APIs using Postman and implemented solutions in Node.js"
+      ],
+      "job_type": "contract",
+      "work_setup": "hybrid"
+    }
+  ]
+}

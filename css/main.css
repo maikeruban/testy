@@ -1,0 +1,5 @@
+.main {
+    padding-block-start: var(--navbar-height);
+    width: min(1200px, 100% - 2rem);
+    margin-inline: auto;
+}
